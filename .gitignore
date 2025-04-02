@@ -1,0 +1,39 @@
+# Byte-compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+ENV/
+env/
+
+# Distribution / packaging files
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+
+# Unit test / coverage reports
+.coverage*
+.pytest_cache/
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# IDE-specific files (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# OS-specific files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Other temporary files or folders you might create during development
+*.tmp
+*.bak
+
+# Optional: Add any sensitive files like `.env` if they contain secrets.
